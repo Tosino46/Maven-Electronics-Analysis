@@ -47,7 +47,7 @@ __*Customers:*__ __12K__
 
 
 ### Product Performance
-!(Product dashboard )[<img width="967" height="544" alt="maven_1" src="https://github.com/user-attachments/assets/cc84a735-9ec9-4424-9bbf-8bd43643b94f" />]
+![Product dashboard](<img width="967" height="544" alt="maven_1" src="https://github.com/user-attachments/assets/cc84a735-9ec9-4424-9bbf-8bd43643b94f" />)
 
 
 **Top Performers Drive Revenue:**
@@ -64,7 +64,7 @@ Focus on high-demand tech, bundle weak products, and innovate in smart devices/w
 
 
 ### Customer Performance
-!( Customer dashboard)[<img width="966" height="543" alt="Maven-2" src="https://github.com/user-attachments/assets/f5cd5082-1c5e-4aff-bc1d-215b86593f9b" />]
+![Customer dashboard](<img width="966" height="543" alt="Maven-2" src="https://github.com/user-attachments/assets/f5cd5082-1c5e-4aff-bc1d-215b86593f9b" />)
 
 **Demographics:** 
 
@@ -89,7 +89,7 @@ Target youth with trendy tech, expand beyond top states, launch mid-year campaig
 
 
 ### Regional & Store Performance
-!(Region and Store dashboard)[<img width="965" height="543" alt="Maven_3" src="https://github.com/user-attachments/assets/0115f82b-7e06-4d36-91b4-ae8de2f67fba" />]
+![Region and Store dashboard](<img width="965" height="543" alt="Maven_3" src="https://github.com/user-attachments/assets/0115f82b-7e06-4d36-91b4-ae8de2f67fba" />)
 
 **Geography:**
 
@@ -151,5 +151,5 @@ Maven Electronics has a strong foundation but faces risk from over-reliance on a
 
 danieltosinos2@gmail.com 
 
-!(LinkedIn)[https://www.linkedin.com/in/olaribigbe-oluwatosin-313036327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+![LinkedIn](https://www.linkedin.com/in/olaribigbe-oluwatosin-313036327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
