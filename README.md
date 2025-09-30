@@ -1,11 +1,12 @@
 # Maven-Electronics-Analysis
-
+My first Powerbi Project that helps shaping my knoweldge in turning data into real insight
 
 ## Objective:
 
 This dashboard shows the report of Maven global electronics retailer to consolidate and analyze sales, customer, product, and store data. The dashboard shows key performance metrics, uncover sales trends, and provide actionable insights for management to make data-driven decisions.
 
 ## Company Overview:
+
 
 Maven Electronics is a global retailer that sells computers, cell phones, TVs, cameras, appliances, and other consumer products through both online and in-store channels. The company operates across multiple regions and aims to improve profitability, monitor store and product performance, and enhance customer
 satisfaction.
@@ -46,6 +47,8 @@ __*Customers:*__ __12K__
 
 
 ### Product Performance
+<img width="967" height="544" alt="maven_1" src="https://github.com/user-attachments/assets/cc84a735-9ec9-4424-9bbf-8bd43643b94f" />
+
 
 **Top Performers Drive Revenue:**
 
@@ -61,6 +64,7 @@ Focus on high-demand tech, bundle weak products, and innovate in smart devices/w
 
 
 ### Customer Performance
+<img width="966" height="543" alt="Maven-2" src="https://github.com/user-attachments/assets/f5cd5082-1c5e-4aff-bc1d-215b86593f9b" />
 
 **Demographics:** 
 
@@ -85,6 +89,7 @@ Target youth with trendy tech, expand beyond top states, launch mid-year campaig
 
 
 ### Regional & Store Performance
+<img width="965" height="543" alt="Maven_3" src="https://github.com/user-attachments/assets/0115f82b-7e06-4d36-91b4-ae8de2f67fba" />
 
 **Geography:**
 
