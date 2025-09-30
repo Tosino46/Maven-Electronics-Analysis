@@ -145,11 +145,19 @@ Refurbish or repurpose older stores; push younger stores with localized campaign
 ## Conclusion:
 Maven Electronics has a strong foundation but faces risk from over-reliance on a few products, customers, and regions. To return to sustainable growth, the company must diversify products, expand globally, digitize aggressively, and balance its customer and store portfolio for the next decade.
 
+
+### Project File 
+
+Explore the full dashboard [here](https://github.com/Tosino46/Maven-Electronics-Analysis/blob/main/Global-Electronics-Retailer/Maven%20Electronics%20Dashboard.pbix)
+
 ## Author 
 
 **Olaribigbe Oluwatosin**
 
 danieltosinos2@gmail.com 
 
-[https://www.linkedin.com/in/olaribigbe-oluwatosin-313036327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
+**Contact:**
+
+[LinkedIn](https://www.linkedin.com/in/olaribigbe-oluwatosin-313036327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
