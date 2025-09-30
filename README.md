@@ -151,5 +151,5 @@ Maven Electronics has a strong foundation but faces risk from over-reliance on a
 
 danieltosinos2@gmail.com 
 
-![LinkedIn](https://www.linkedin.com/in/olaribigbe-oluwatosin-313036327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[https://www.linkedin.com/in/olaribigbe-oluwatosin-313036327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
