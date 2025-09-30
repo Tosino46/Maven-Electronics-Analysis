@@ -1,5 +1,5 @@
 # Maven-Electronics-Analysis
-
+My first Powerbi project that shaping my knowledge in turning raw data into actionable insight
 
 ## Objective:
 
