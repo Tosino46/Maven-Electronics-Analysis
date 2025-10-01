@@ -148,7 +148,7 @@ Maven Electronics has a strong foundation but faces risk from over-reliance on a
 
 ### Project File 
 
-Explore the full dashboard [here](https://github.com/Tosino46/Maven-Electronics-Analysis/blob/main/Global-Electronics-Retailer/Maven%20Electronics%20Dashboard.pbix)
+Explore the full dashboard [Here](https://app.powerbi.com/links/9EGK2Cwf4V?ctid=02870609-ad32-4b3b-8e94-131cd97d9c23&pbi_source=linkShare&bookmarkGuid=c366d2b3-8103-4a1c-b7ce-c8aa739770c8)
 
 ## Author 
 
