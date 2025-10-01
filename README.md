@@ -154,10 +154,9 @@ Explore the full dashboard [Here](https://app.powerbi.com/links/9EGK2Cwf4V?ctid=
 
 **Olaribigbe Oluwatosin**
 
-danieltosinos2@gmail.com 
-
-
 **Contact:**
+
+danieltosinos2@gmail.com 
 
 [LinkedIn](https://www.linkedin.com/in/olaribigbe-oluwatosin-313036327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
